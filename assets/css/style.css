@@ -1,5 +1,9 @@
 
 /* Mode sombre */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 .dark-mode {
     background-color: #121212;
     color: #ffffff;
