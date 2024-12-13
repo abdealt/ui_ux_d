@@ -1,0 +1,53 @@
+
+/* Mode sombre */
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode .navbar {
+    background-color: #333333;
+}
+
+.dark-mode .navbar .nav-link {
+    color: #ffffff;
+}
+
+.dark-mode .navbar-brand {
+    color: #ffffff;
+}
+
+.dark-mode .btn-outline-secondary {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.dark-mode .btn-outline-secondary:hover {
+    background-color: #ffffff;
+    color: #121212;
+}
+
+ /* Dark mode styles */
+ .dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode .navbar {
+    background-color: #333333;
+}
+
+.dark-mode .navbar .nav-link,
+.dark-mode .navbar-brand {
+    color: #ffffff;
+}
+
+.dark-mode .btn-outline-secondary {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.dark-mode .btn-outline-secondary:hover {
+    background-color: #ffffff;
+    color: #121212;
+}
